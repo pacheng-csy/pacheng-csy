@@ -21,7 +21,7 @@ You can contact me:
 
 ## Stats
 
-[![pacheng-csy's GitHub stats](https://github-readme-stats.vercel.app/api?username=pacheng-csy&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![pacheng-csy's GitHub stats](https://github-readme-stats.vercel.app/api?username=pacheng-csy&show_icons=true&theme=merko&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Used Languages
